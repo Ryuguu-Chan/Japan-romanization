@@ -6,7 +6,7 @@
  python japan [any hiragana/katakana words]
  
 # Examples
- python japan あきやま みお
+ python japan あきやま みお</br>
  python japan ベジータ
  
 # done
