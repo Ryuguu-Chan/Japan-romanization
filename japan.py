@@ -95,6 +95,7 @@ noteSkeleton = {
 
 loopindex = 0
 
+# =====| main portion of the code |=====
 if (len(sys.argv) >= 2):
     for index in range(1, len(sys.argv)):
         txt = str(sys.argv[index])
@@ -121,3 +122,4 @@ else:
     print("no arguments enough")
 
 print()
+# ======================================
