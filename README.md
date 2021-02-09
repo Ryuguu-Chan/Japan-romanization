@@ -9,4 +9,5 @@
  python japan.py あきやま みお</br>
  python japan.py ベジータ
  
-# done
+# TODOLIST
+° Implementing the algorithm for the Katakana
