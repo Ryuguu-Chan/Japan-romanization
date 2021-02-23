@@ -10,4 +10,4 @@
  python japan.py ベジータ
  
 # TODOLIST
-° Implementing the algorithm for the Katakana
+° Implementing the algorithm for the Kanji
